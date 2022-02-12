@@ -1,6 +1,7 @@
 # ML_IncomePredictor
 
-Extracted significant data from larget data set, convert categorical type data into numerics and factor out all numerics data base on significance using data mining techniques.
-Built a accurate Decision tree classification model that predict whether a person's income exceed a certain level by applying post-process significant data set.
-The model has around 83% accruacy under supervised learning control.
-
+Extracted significant data from large data set, converted categorical type data into numerics, and factor out all numeric data based on significance using data mining techniques. 
+\br
+Built an accurate Decision tree classification model that predicts whether a person's income exceeds a certain level by applying a post-process significant data set.
+\br
+The model has around 83% accuracy using supervised learning approach.
